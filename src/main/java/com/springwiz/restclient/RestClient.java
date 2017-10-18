@@ -17,7 +17,7 @@ import org.apache.http.util.EntityUtils;
 
 public class RestClient 
 {
-	private static String DEFAULT_FILE = "E:/springwiz/restclient/resources/seeded_excel_for_java_test.xlsx";  
+	private static String DEFAULT_FILE = "seeded_excel_for_java_test.xlsx";  
     public static void main( String[] args )
     {
         RestClient restClient = new RestClient();
